@@ -1,2 +1,6 @@
-# Website-for-Songs
-This is a website made by me that shows all the songs by Raman Negi of his Shaksiyaat Album.
+# Project-Music😊
+A Simple Front End Page for Music Streaming😜... Go Live with 🤞  https://sudoarun.github.io/Project-Music/
+
+- Under maintenance with ReactJS👀.... 
+- Uploading Soon...🎶
+- Adding More Functionalities and Features...😃
